@@ -3,7 +3,7 @@ apt-xapian-index==0.47
 asn1crypto==0.24.0
 astroid==2.3.3
 blinker==1.4
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 colorama==0.3.7
